@@ -1,0 +1,9 @@
+# CODEOWNERS
+
+# Define code owners for different parts of the repository. Update these as your team grows.
+/infra/ @kevin-lazar
+/services/auth/ @kevin-lazar
+/services/billing/ @kevin-lazar
+/services/scheduling/ @kevin-lazar
+/apps/web/ @kevin-lazar
+/packages/ @kevin-lazar
